@@ -1,0 +1,12 @@
+.fullLogo{
+    position: absolute;
+    right: 10%;
+    top: 4%;
+}
+.fullLogo:hover{
+    cursor: pointer;
+}
+.endImg{
+    display: block;
+    margin: 10% auto;
+}

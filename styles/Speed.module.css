@@ -1,0 +1,25 @@
+.speedInput{
+    width: 15%;
+    height: 20%;
+    border-radius: 10px;
+    font-size: .7em;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  .speed{
+    margin-top: 2%;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .speed button{
+    background: #FDD207;
+    border-radius: 10px;
+    color: #000;
+    border: none;
+    margin-right: 5%;
+    padding: 3% 6%;
+    font-size: 3em;
+    font-weight: 700;
+  }

@@ -1,0 +1,16 @@
+.header{
+    margin-top: 3%;
+}
+  
+.fullLogo{
+    position: absolute;
+    right: 10%;
+    top: 4%;
+  }
+
+.word{
+    color: #371548;
+    font-size: 4em;
+    text-align: center;
+    margin: 20% 0;
+}
