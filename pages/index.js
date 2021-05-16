@@ -26,7 +26,7 @@ export default function Home() {
           </div>
 
           <div className={styles.selectionBlock}>
-            <Range label='Стартовое расстояние' min={5} max={40} step={5} value={25} name='distance'/>
+            <Range label='Стартовое расстояние' min={5} max={40} step={5} value={10} name='distance'/>
           </div>
 
           <div className={styles.selectionBlock}>
@@ -34,7 +34,7 @@ export default function Home() {
           </div>
 
           <div className={styles.selectionBlock}>
-            <Range label='Увеличение расстояния' min={5} max={40} step={5} value={25} name='inc_distance'/>
+            <Range label='Увеличение расстояния' min={5} max={40} step={5} value={0} name='inc_distance'/>
           </div>
 
           <div className={styles.selectionBlock}>

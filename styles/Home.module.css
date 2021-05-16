@@ -1,5 +1,3 @@
-
-
 .container {
   min-height: 100vh;
   padding: 0 0.5rem;
@@ -11,10 +9,8 @@
 }
 
 
-
 .header{
   margin-top: 10%;
-  /* display: table-cell; */
   width: 100vw;
   text-align: center;
 }
@@ -22,20 +18,15 @@
 .header p{
   display: inline-block;
   font-size: 3em;
-  /* padding-left: 6em; */
   position: relative;
   text-align: center;
   color: #2B3172;
 }
 
 .fullLogo{
-  /* vertical-align: middle; */
-  /* position: relative; */
   position: absolute;
   right: 10%;
 }
-
-
 
 
 
@@ -59,8 +50,6 @@
 }
 
 .start{
-  /* background: none;
-  box-shadow: none; */
   border-radius: 30px;
   width: 30vw;
   padding: 5%;
@@ -86,7 +75,7 @@
 }
 
 .startButton{
-  background: #FDD207;
+  background: #fdd407;
   border-radius: 70px;
   border: none;
   font-weight: 700;
